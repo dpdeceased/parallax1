@@ -1,0 +1,12 @@
+.parallax {
+  background-image: url(https://wallpaperaccess.com/full/5437645.jpg);
+  min-height: 500px;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.content {
+  height: 100px;
+  background-color: rgb(255, 0, 0);
+  font-size: 40px;
+}
